@@ -21,3 +21,4 @@ export const Toolbar = ({ filters, selected, onSelectFilter }) => {
     selected: PropTypes.string,
     onSelectFilter: PropTypes.func
   }
+  

@@ -4,8 +4,6 @@ import { Toolbar } from "../Toolbar"
 import './Portfolio.css'
 import { data } from '../data/dataPortfolio' 
 
-
-
 export const Portfolio = () => {
   const filters = ["All", "Websites", "Flayers", "Business Cards"]
 

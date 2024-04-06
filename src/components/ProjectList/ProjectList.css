@@ -1,5 +1,5 @@
 .projectList {
-    -webkit-columns: 3;
+    column-count: 3;
     margin-top: 2em;
     cursor: pointer;
 }
