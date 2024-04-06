@@ -1,4 +1,4 @@
-#### Deployment: https://ivankravz.github.io/events-state-filter/
+#### Deployment: https://ivankravz.github.io/ra16-homeworks-events-state-filter/
 
 Портфолио с фильтрами
 ===
