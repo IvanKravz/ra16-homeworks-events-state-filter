@@ -1,4 +1,4 @@
-name: events-state-filter
+name: ra16-homeworks-events-state-filter
 
 on: [push, pull_request]
 
