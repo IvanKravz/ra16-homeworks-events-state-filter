@@ -1,9 +1,8 @@
 {
-  "name": "events-state-filter",
+  "name": "ra16-homeworks-events-state-filter",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ivankravz.github.io/ra16-homeworks-events-state-filter",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
